@@ -14,7 +14,7 @@ package-lock.json
 /output
 /specs/data/output
 /specs/data/migration/output_gltf
-/specs/data/migration/output
+#/specs/data/migration/output
 /packages/**/build
 *.tsbuildinfo
 3d-tiles-tools-*.tgz
